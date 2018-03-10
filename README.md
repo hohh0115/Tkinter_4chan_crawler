@@ -26,4 +26,6 @@ It will create a folder under your Save Path, and the regulation of the folder n
 ```
 The reason why I choose "the first post number" as the prefix is that once you sort the folder by file name, you would know which 4chan thread you had downloaded before, and it is up to you to decide which stays.
 
-I hope it meet meet your needs.
+I hope it meet your needs.
+
+如果有在逛k島綜合，也可以把綜合串貼上去，因為是附屬功能，所以只有判斷rem.komica2.net這個網域的規則了，有機會再加上祭典的寫法
