@@ -13,9 +13,9 @@ python /path/to/main.py
 
 ![image](https://raw.githubusercontent.com/hohh0115/Tkinter_4chan_crawler/master/1.PNG)
 
-Target URL: the url of the thread
-Save Path: the path where you want to save the files
-Maximum Size: the maximum size of a file you allowed to download
+Target URL: the url of the thread<br/>
+Save Path: the path where you want to save the files<br/>
+Maximum Size: the maximum size of a file you allowed to download<br/>
 
 Each time you press "Submit", it will save your preference of Save Path and Maximum Size in file "user_info.pickle".
 Also, you can press cancel button to stop the download process.
