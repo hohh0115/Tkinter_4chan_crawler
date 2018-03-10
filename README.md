@@ -1,6 +1,6 @@
 # Tkinter_4chan_crawler
 
-A 4chan thread crawler with simple GUI.
+A 4chan thread crawler with simple GUI.<br/>
 Tested on windows 10 and Mac with Python 3, and it works.
 
 ### Preparement
