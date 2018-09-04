@@ -96,3 +96,4 @@ python
 *.pyc
 */__pycache__/*
 *.pickle
+venv/*

@@ -1,9 +1,14 @@
+
+import sys
 import os
 import time
 import requests
 from bs4 import BeautifulSoup
 import tkinter as tk
 import tkinter.messagebox
+
+# from six.moves import queue as Queue
+# from threading import Thread
 
 class Crawler:
 
